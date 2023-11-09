@@ -50,7 +50,7 @@ Creating a personal CV: [link](https://github.com/filisinia/rsschool-cv/blob/gh-
 * Practice on CodeWars
 
 ## Languages
-* English - Upper-Intermediate (Every Saturday, I attend an English-speaking club, improving me skills more and more. Additionally, I reinforce my knowlege by learning new words, reading English books and watching TV shows)
+* English - Upper-Intermediate (Every Saturday, I attend an English-speaking club, improving my skills more and more. Additionally, I reinforce my knowlege by learning new words, reading English books and watching TV shows)
 ![English sertificate](./English_test.png "EnglishScore, British Council")
 * Ukrainian - native
 * Russian - native
