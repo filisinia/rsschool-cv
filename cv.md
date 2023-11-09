@@ -33,3 +33,17 @@ function generateHashtag (str) {
   return '#' + words.join('');
 }
 ```
+## Work experience
+Creating a personal CV: [link](https://github.com/filisinia/rsschool-cv/blob/gh-pages/cv.md)
+
+## Education
+* Books of Dmitry Trepachov:
+1. "HTML for Beginners"
+2. "Advanced HTML and CSS"
+3. "Fundamental JavaScript"
+
+* YouTube channels:
+1. FreelancerLifeStyle
+2. Bogdan Stashchuk
+
+* Practice on CodeWars
