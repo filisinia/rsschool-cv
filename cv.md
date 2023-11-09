@@ -1,4 +1,5 @@
 # Mariia Petrenko
+![personal photo](./photo.jpg)
 
 ## Contact information
 * GitHub: [filisinia](https://github.com/filisinia)
@@ -47,3 +48,9 @@ Creating a personal CV: [link](https://github.com/filisinia/rsschool-cv/blob/gh-
 2. Bogdan Stashchuk
 
 * Practice on CodeWars
+
+## Languages
+* English - Upper-Intermediate (Every Saturday, I attend an English-speaking club, improving me skills more and more. Additionally, I reinforce my knowlege by learning new words, reading English books and watching TV shows)
+![English sertificate](./English_test.png "EnglishScore, British Council")
+* Ukrainian - native
+* Russian - native
