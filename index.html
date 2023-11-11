@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>Mariia Petrenko</h1>
+    <hr>
+    <img src="./photo.jpg" alt="personal photo">
+    <h2>Contact information</h2>
+    <ul>
+        <li>GitHub: filisinia</li>
+        <li>Discord: filisinia</li>
+        <li>E-mail: filisinia@gmail.com</li>
+        <li>Location: Kyiv, Ukraine</li>
+    </ul>
+    <hr>
+    <h2>About me</h2>
+    <p>I am 20 years old and currently studying as a front-end developer. While I already possess some neccessary skills for this field, there is still much more for me to explore and learn. I am a quick learner, always prepared for new challenges and ready to make significant strides in the dynamic realm of web development.</p>
+    <hr>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS (SASS/SCCS, BEM)</li>
+        <li>JavaScript</li>
+        <li>Git & GitHub</li>
+        <li>VS Code</li>
+        <li>Figma</li>
+    </ul>
+    <hr>
+    <h2>Code example</h2>
+    <code><pre>
+        function generateHashtag (str) {
+            let words = str.split(' ');
+
+            for (let i = 0; i &lt words.length; i++) {
+              words[i] = words[i].slice(0, 1).toUpperCase() + words[i].slice(1);
+            }
+
+            if (words.join('').split('').length >= 140 || words.join('').split('').length === 0) {
+              return false;
+            }
+
+            return '#' + words.join('');
+          }
+    </pre></code>
+    <hr>
+    <h2>Work experience</h2>
+    <p>Creating a personal CV: <a href="https://filisinia.github.io/rsschool-cv/cv">link</a></p>
+    <hr>
+    <h2>Education</h2>
+    <ul>
+        <li>Books of Dmitry Trepachov:
+            <ol>
+                <li>“HTML for Beginners”</li>
+                <li>“Advanced HTML and CSS”</li>
+                <li>“Fundamental JavaScript”</li>
+            </ol>
+        </li>
+        <li>YouTube channels:
+            <ol>
+                <ul>FreelancerLifeStyle</ul>
+                <ul>Bogdan Stashchuk</ul>
+            </ol>
+        </li>
+        <li>Practice on CodeWars</li>
+    </ul>
+    <hr>
+    <h2>Languages</h2>
+    <ul>
+        <li>English - Upper-Intermediate (Every Saturday, I attend an English-speaking club, improving my skills more and more. Additionally, I reinforce my knowlege by learning new words, reading English books and watching TV shows) <br>
+            <img src="./English_test.png" alt="English test">
+        </li>
+        <li>Ukrainian - native</li>
+        <li>Russian - native</li>
+    </ul>
+</body>
+</html>
