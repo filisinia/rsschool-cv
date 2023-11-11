@@ -32,7 +32,7 @@
     </ul>
     <hr>
     <h2>Code example</h2>
-    <code><pre>
+    <pre><code>
         function generateHashtag (str) {
             let words = str.split(' ');
 
@@ -40,31 +40,27 @@
               words[i] = words[i].slice(0, 1).toUpperCase() + words[i].slice(1);
             }
 
-            if (words.join('').split('').length >= 140 || words.join('').split('').length === 0) {
+            if (words.join('').split('').length &gt= 140 || words.join('').split('').length === 0) {
               return false;
             }
 
             return '#' + words.join('');
           }
-    </pre></code>
+    </code></pre>
     <hr>
     <h2>Work experience</h2>
     <p>Creating a personal CV: <a href="https://filisinia.github.io/rsschool-cv/cv">link</a></p>
     <hr>
     <h2>Education</h2>
     <ul>
-        <li>Books of Dmitry Trepachov:
-            <ol>
-                <li>“HTML for Beginners”</li>
-                <li>“Advanced HTML and CSS”</li>
-                <li>“Fundamental JavaScript”</li>
-            </ol>
+        <li>Books of Dmitry Trepachov: <br>
+            “HTML for Beginners”<br>
+            “Advanced HTML and CSS”<br>
+            “Fundamental JavaScript”<br>
         </li>
-        <li>YouTube channels:
-            <ol>
-                <ul>FreelancerLifeStyle</ul>
-                <ul>Bogdan Stashchuk</ul>
-            </ol>
+        <li>YouTube channels: <br>
+            FreelancerLifeStyle<br>
+            Bogdan Stashchuk<br>
         </li>
         <li>Practice on CodeWars</li>
     </ul>
